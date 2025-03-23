@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "task-project (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "task-project (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
